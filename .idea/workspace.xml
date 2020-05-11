@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53d134b3-815d-48f5-b3f3-a786b9739466" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1biObHYiMJ30zvlPuk3oCSBt3TO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpaceWar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpaceWar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d134b3-815d-48f5-b3f3-a786b9739466" name="Default Changelist" comment="" />
+      <created>1589111516681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589111516681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="985" y="530" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589128424134">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="985" y="530" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1589128424134" />
+    <state width="2539" height="489" key="GridCell.Tab.0.bottom" timestamp="1589209044224">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="489" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1589209044224" />
+    <state width="2539" height="489" key="GridCell.Tab.0.center" timestamp="1589209044222">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="489" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1589209044222" />
+    <state width="2539" height="489" key="GridCell.Tab.0.left" timestamp="1589209044221">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="489" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1589209044221" />
+    <state width="2539" height="489" key="GridCell.Tab.0.right" timestamp="1589209044223">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="489" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1589209044223" />
+    <state width="2539" height="519" key="GridCell.Tab.1.bottom" timestamp="1589123377843">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="519" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1589123377843" />
+    <state width="2539" height="519" key="GridCell.Tab.1.center" timestamp="1589123377839">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="519" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1589123377839" />
+    <state width="2539" height="519" key="GridCell.Tab.1.left" timestamp="1589123377821">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="519" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1589123377821" />
+    <state width="2539" height="519" key="GridCell.Tab.1.right" timestamp="1589123377841">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="519" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1589123377841" />
+    <state x="789" y="359" key="SettingsEditor" timestamp="1589111572866">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="789" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1589111572866" />
+  </component>
+</project>
